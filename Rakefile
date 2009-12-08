@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "downcaser"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Downcases strings}
+    gem.description = %Q{Downcases long strings}
     gem.email = "ariejan@ariejan.net"
     gem.homepage = "http://github.com/ariejan/downcaser"
     gem.authors = ["Ariejan de Vroom"]
