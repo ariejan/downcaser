@@ -1,6 +1,6 @@
 = downcaser
 
-Description goes here.
+Downcase strings.
 
 == Note on Patches/Pull Requests
  
